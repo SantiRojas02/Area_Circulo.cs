@@ -1,0 +1,5 @@
+D:\Facultad\Programacion\Act 1 c#\Area_Circulo.cs\Area_Circulo.cs\bin\Debug\Area_Circulo.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Area_Circulo.cs\Area_Circulo.cs\bin\Debug\Area_Circulo.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Area_Circulo.cs\Area_Circulo.cs\bin\Debug\Area_Circulo.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Area_Circulo.cs\Area_Circulo.cs\obj\Debug\Area_Circulo.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Area_Circulo.cs\Area_Circulo.cs\obj\Debug\Area_Circulo.cs.pdb
